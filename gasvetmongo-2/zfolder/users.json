@@ -1,0 +1,16 @@
+db.users.insert({
+    "user":"tevye",
+    "nick":"1830",
+    "pass":"9090",
+    "admin":"null",
+    "superadmin":"null",
+    "userlimit":10,
+    "usedlimit":0,
+    "role":"B1",
+    "state":"aktif",
+    "fakelogin": 0,
+    "logincount": 5,
+    "logincheck": "passive",
+    "multilogin": true,
+    "sessioncount": 0
+})

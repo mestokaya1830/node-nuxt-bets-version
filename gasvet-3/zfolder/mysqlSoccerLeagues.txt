@@ -1,0 +1,92 @@
+  INSERT INTO `soccer` (`cn`, `lid`, `ln`) VALUES ('Dünya', '755', 'Club Friendlies');
+  
+  INSERT INTO `soccer` (`cn`, `lid`, `ln`) VALUES ('Almanya', '43', 'Bundesliga');
+  INSERT INTO `soccer` (`cn`, `lid`, `ln`) VALUES ('Almanya', '79', '2.Bundesliga');
+  INSERT INTO `soccer` (`cn`, `lid`, `ln`) VALUES ('Almanya', '75840', '2. Bundesliga Conference Specials');
+  INSERT INTO `soccer` (`cn`, `lid`, `ln`) VALUES ('Almanya', '943', 'Bundesliga - Women');
+  INSERT INTO `soccer` (`cn`, `lid`, `ln`) VALUES ('Almanya', '15745', '3. Liga');
+  
+  INSERT INTO `soccer` (`cn`, `lid`, `ln`) VALUES ('Avusturya', '40', '2.Liga');
+  INSERT INTO `soccer` (`cn`, `lid`, `ln`) VALUES ('Avusturya ÖFB', '41', 'Cup');
+  INSERT INTO `soccer` (`cn`, `lid`, `ln`) VALUES ('Avusturya Tipp3', '66395', 'Bundesliga - Relegation');
+  INSERT INTO `soccer` (`cn`, `lid`, `ln`) VALUES ('Avusturya Tipp3', '69820', 'Bundesliga - Championship Round');
+  
+  INSERT INTO `soccer` (`cn`, `lid`, `ln`) VALUES ('Beyaz Rusya', '5426', 'Cup');
+  INSERT INTO `soccer` (`cn`, `lid`, `ln`) VALUES ('Beyaz Rusya', '9666', 'Vysshaya Liga');
+  INSERT INTO `soccer` (`cn`, `lid`, `ln`) VALUES ('Beyaz Rusya', '15990', 'Pervaya Liga');
+  INSERT INTO `soccer` (`cn`, `lid`, `ln`) VALUES ('Beyaz Rusya', '50480', 'Women`s Premier League');
+  INSERT INTO `soccer` (`cn`, `lid`, `ln`) VALUES ('Beyaz Rusya', '74957', 'Amateur Championship ALF Vysshaya Liga (2x35 mins)');
+  INSERT INTO `soccer` (`cn`, `lid`, `ln`) VALUES ('Beyaz Rusya', '74959', 'Amateur Championship ALF 1st Division (2x35 mins)');
+  INSERT INTO `soccer` (`cn`, `lid`, `ln`) VALUES ('Beyaz Rusya', '75357', 'Vtoraya Liga - Group B');
+  INSERT INTO `soccer` (`cn`, `lid`, `ln`) VALUES ('Beyaz Rusya', '75355', 'Vtoraya Liga - Group A');
+  INSERT INTO `soccer` (`cn`, `lid`, `ln`) VALUES ('Beyaz Rusya', '75717', 'Amateur Championship ALF Vtoraya Liga (2x35 mins)');
+  
+  INSERT INTO `soccer` (`cn`, `lid`, `ln`) VALUES ('Bulgaristan', '75159', 'First Professional Football League');
+  INSERT INTO `soccer` (`cn`, `lid`, `ln`) VALUES ('Bulgaristan', '5430', 'First Professional Football League');
+  
+  INSERT INTO `soccer` (`cn`, `lid`, `ln`) VALUES ('Burundi', '75159', 'Cup');
+  INSERT INTO `soccer` (`cn`, `lid`, `ln`) VALUES ('Burundi', '75454', 'National League B');
+  
+  INSERT INTO `soccer` (`cn`, `lid`, `ln`) VALUES ('Çek Cumhuriyeti', '445', '1. Liga');
+  INSERT INTO `soccer` (`cn`, `lid`, `ln`) VALUES ('Çek Cumhuriyeti', '5344', 'Fotbalova Narodni Liga');
+  
+  INSERT INTO `soccer` (`cn`, `lid`, `ln`) VALUES ('Danimarka', '3902', 'Superligaen');
+  INSERT INTO `soccer` (`cn`, `lid`, `ln`) VALUES ('Danimarka', '143', '1st Division');
+  INSERT INTO `soccer` (`cn`, `lid`, `ln`) VALUES ('Danimarka', '143', 'Elitedivisionen - Women');
+  
+  INSERT INTO `soccer` (`cn`, `lid`, `ln`) VALUES ('Estonya', '55905', 'Meistriliiga Women');
+  INSERT INTO `soccer` (`cn`, `lid`, `ln`) VALUES ('Estonya', '855', 'Premium Liiga');
+  INSERT INTO `soccer` (`cn`, `lid`, `ln`) VALUES ('Estonya', '16387', ' Esiliiga');
+  
+  
+  INSERT INTO `soccer` (`cn`, `lid`, `ln`) VALUES ('Ermenistan', '6573', 'Premier League');
+  
+  INSERT INTO `soccer` (`cn`, `lid`, `ln`) VALUES ('Faroe Adaları', '27831', 'Betrideildin');
+  INSERT INTO `soccer` (`cn`, `lid`, `ln`) VALUES ('Faroe Adaları', '61138', '1. deild');
+  
+  INSERT INTO `soccer` (`cn`, `lid`, `ln`) VALUES ('Güney Kore', '5742', 'K League 1');
+  INSERT INTO `soccer` (`cn`, `lid`, `ln`) VALUES ('Güney Kore', '15202', 'K League 2');
+  
+  INSERT INTO `soccer` (`cn`, `lid`, `ln`) VALUES ('Hırvatistan', '763', 'Croatian Cup');
+  
+  INSERT INTO `soccer` (`cn`, `lid`, `ln`) VALUES ('Hırvatistan', '', '1.HNL');
+  
+  INSERT INTO `soccer` (`cn`, `lid`, `ln`) VALUES ('israil', '18667', 'Premier League');
+  
+  INSERT INTO `soccer` (`cn`, `lid`, `ln`) VALUES ('izlanda', '1504', 'Cup');
+  INSERT INTO `soccer` (`cn`, `lid`, `ln`) VALUES ('izlanda', '70096', 'Super Cup - Women');
+  
+  INSERT INTO `soccer` (`cn`, `lid`, `ln`) VALUES ('Kosta Rika', '22705', 'Primera Division');
+  INSERT INTO `soccer` (`cn`, `lid`, `ln`) VALUES ('Kosta Rika', '55866', 'Liga de Ascenso');
+  
+  INSERT INTO `soccer` (`cn`, `lid`, `ln`) VALUES ('Litvanya', '5405', 'A Lyga');
+  
+  INSERT INTO `soccer` (`cn`, `lid`, `ln`) VALUES ('Macaristan', '18850', 'Magyar Kupa');
+  INSERT INTO `soccer` (`cn`, `lid`, `ln`) VALUES ('Macaristan', '18850', 'NB1');
+  
+  INSERT INTO `soccer` (`cn`, `lid`, `ln`) VALUES ('Montenegro', '10674', 'Prva Liga');
+  
+  INSERT INTO `soccer` (`cn`, `lid`, `ln`) VALUES ('Polonya', '761', 'Puchar Polski');
+  INSERT INTO `soccer` (`cn`, `lid`, `ln`) VALUES ('Polonya', '10330', 'Ekstraklasa');
+  INSERT INTO `soccer` (`cn`, `lid`, `ln`) VALUES ('Polonya', '16152', 'I Liga');
+  INSERT INTO `soccer` (`cn`, `lid`, `ln`) VALUES ('Polonya', '42250', 'II Liga');
+  
+  INSERT INTO `soccer` (`cn`, `lid`, `ln`) VALUES ('Portekiz', '16199', 'Primeira Liga');
+  
+  INSERT INTO `soccer` (`cn`, `lid`, `ln`) VALUES ('Sırbistan', '10631', 'Super League');
+  INSERT INTO `soccer` (`cn`, `lid`, `ln`) VALUES ('Sırbistan', '58589', 'Prva Liga');
+  
+  INSERT INTO `soccer` (`cn`, `lid`, `ln`) VALUES ('Slovenia', '18217', '1.SNL');
+  
+  INSERT INTO `soccer` (`cn`, `lid`, `ln`) VALUES ('Tayvan', '59280', 'Premier League');
+  
+  INSERT INTO `soccer` (`cn`, `lid`, `ln`) VALUES ('Turkmenistan', '75566', 'Yokari Liga');
+  
+  INSERT INTO `soccer` (`cn`, `lid`, `ln`) VALUES ('Ukrayna', '15805', 'Premier Liga');
+  
+  INSERT INTO `soccer` (`cn`, `lid`, `ln`) VALUES ('Vietnam', '35346', 'Cup');
+  INSERT INTO `soccer` (`cn`, `lid`, `ln`) VALUES ('Vietnam', '35346', 'V-League');
+  INSERT INTO `soccer` (`cn`, `lid`, `ln`) VALUES ('Vietnam', '50569', 'V-League2');
+  INSERT INTO `soccer` (`cn`, `lid`, `ln`) VALUES ('Vietnam', '46504', 'U19 Championship');
+  
+  INSERT INTO `soccer` (`cn`, `lid`, `ln`) VALUES ('Yunanistan', '10463', 'Superleague 1');

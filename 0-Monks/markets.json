@@ -1,0 +1,988 @@
+{
+    "data": [
+        {
+            "id": 12,
+            "name": "Toplam Gol Alt/Üst"
+        },
+        {
+            "id": 975926,
+            "name": "İlk Yarı Çifte Şans"
+        },
+        {
+            "id": 137918016,
+            "name": "İlk Yarı ve Maç Sonu"
+        },
+        {
+            "id": 136703823,
+            "name": "İlk Yarı Kornerler"
+        },
+        {
+            "id": 975903,
+            "name": "İlk Yarı Toplam Gol Alt/Üst"
+        },
+        {
+            "id": 975932,
+            "name": "İlk Yarı Tek/Çift"
+        },
+        {
+            "id": 1257116774,
+            "name": "İlk Yarı Sonucu ve Toplam Gol Alt/Üst"
+        },
+        {
+            "id": 1257116775,
+            "name": "İlk Yarı Sonucu ve Karşılıklı Gol"
+        },
+        {
+            "id": 37,
+            "name": "İlk Yarı Sonucu"
+        },
+        {
+            "id": 975916,
+            "name": "İlk Yarı Kesin Skor"
+        },
+        {
+            "id": 976226,
+            "name": "İlk Yarı Karşılıklı Gol"
+        },
+        {
+            "id": 137918033,
+            "name": "İlk Yarı Handikap"
+        },
+        {
+            "id": 976389,
+            "name": "İlk Yarı Gol Sayısı"
+        },
+        {
+            "id": 69,
+            "name": "İlk Golü Hangi Takım Atar"
+        },
+        {
+            "id": 38,
+            "name": "İkinci Yarı Toplam Gol Alt/Üst"
+        },
+        {
+            "id": 137918020,
+            "name": "İkinci Yarı Tek/Çift"
+        },
+        {
+            "id": 80,
+            "name": "İkinci Yarı Sonucu"
+        },
+        {
+            "id": 976230,
+            "name": "İkinci Yarı Karşılıklı Gol"
+        },
+        {
+            "id": 976298,
+            "name": "İkinci Yarı Gol Sayısı"
+        },
+        {
+            "id": 63,
+            "name": "Çifte Şans"
+        },
+        {
+            "id": 976241,
+            "name": "Toplam Gol Sayisi"
+        },
+        {
+            "id": 136830705,
+            "name": "Toplam Gol Alt/Üst 2.5 ve Karşılıklı Gol"
+        },
+        {
+            "id": 975930,
+            "name": "Tek/Çift"
+        },
+        {
+            "id": 75,
+            "name": "Son Golü Hangi Takım Atar"
+        },
+        {
+            "id": 976334,
+            "name": "Maç Sonu ve Toplam Gol Alt/Üst"
+        },
+        {
+            "id": 976316,
+            "name": "Maç Sonu ve Karşılıklı Gol"
+        },
+        {
+            "id": 83,
+            "name": "Handikap"
+        },
+        {
+            "id": 975909,
+            "name": "Kesin Skor"
+        },
+        {
+            "id": 136830811,
+            "name": "Kendi Kalesine Gol Olurmu"
+        },
+        {
+            "id": 136830688,
+            "name": "Kazanma Marjı"
+        },
+        {
+            "id": 976105,
+            "name": "Karşılıklı Gol"
+        },
+        {
+            "id": 976144,
+            "name": "Hangi Yarı Çok Gol Olur"
+        },
+        {
+            "id": 137918023,
+            "name": "Hangi Takım Gol Atar"
+        },
+        {
+            "id": 976198,
+            "name": "Evsahibi Gol Alt/Üst"
+        },
+        {
+            "id": 136830707,
+            "name": "Toplam Gol Aralığı"
+        },
+        {
+            "id": 136706055,
+            "name": "Evsahibi Tek/Çift"
+        },
+        {
+            "id": 137918017,
+            "name": "Evsahibi Hangi Yarı Çok Gol Atar"
+        },
+        {
+            "id": 976270,
+            "name": "Evsahibi Gol Sayısı"
+        },
+        {
+            "id": 976348,
+            "name": "Evsahibi Gol Atarmı"
+        },
+        {
+            "id": 976204,
+            "name": "Deplasman Gol Alt/Üst"
+        },
+        {
+            "id": 136706056,
+            "name": "Deplasman Tek/Çift"
+        },
+        {
+            "id": 137918019,
+            "name": "Deplasman Hangi Yarı Çok Gol Atar"
+        },
+        {
+            "id": 976286,
+            "name": "Deplasman Gol Sayısı"
+        },
+        {
+            "id": 976360,
+            "name": "Deplasman Gol Atarmı"
+        },
+        {
+            "id": 137918013,
+            "name": "Beraberlikte İade"
+        },
+        {
+            "id": 1,
+            "name": "Maç Sonu"
+        },
+        
+        {
+            "id": 36271079,
+            "name": "5-2"
+        },
+        {
+            "id": 36271085,
+            "name": "0-0"
+        },
+        {
+            "id": 36271091,
+            "name": "1-1"
+        },
+        {
+            "id": 36271097,
+            "name": "2-2"
+        },
+        {
+            "id": 36271100,
+            "name": "3-3"
+        },
+        {
+            "id": 36271102,
+            "name": "0-1"
+        },
+        {
+            "id": 36271104,
+            "name": "0-2"
+        },
+        {
+            "id": 36271105,
+            "name": "1-2"
+        },
+        {
+            "id": 36271106,
+            "name": "0-3"
+        },
+        {
+            "id": 36271107,
+            "name": "1-3"
+        },
+        {
+            "id": 36271108,
+            "name": "2-3"
+        },
+        {
+            "id": 36271109,
+            "name": "0-4"
+        },
+        {
+            "id": 36271110,
+            "name": "1-4"
+        },
+        {
+            "id": 36271111,
+            "name": "2-4"
+        },
+        {
+            "id": 36271112,
+            "name": "3-4"
+        },
+        {
+            "id": 36271113,
+            "name": "0-5"
+        },
+        {
+            "id": 36271114,
+            "name": "1-5"
+        },
+        {
+            "id": 36271115,
+            "name": "2-5"
+        },
+        {
+            "id": 36271116,
+            "name": "3-5"
+        },
+        {
+            "id": 36271117,
+            "name": "0-6"
+        },
+        {
+            "id": 36271118,
+            "name": "1-6"
+        },
+        {
+            "id": 38450416,
+            "name": "2-6"
+        },
+        {
+            "id": 38450421,
+            "name": "6-1"
+        },
+        {
+            "id": 56072404,
+            "name": "1X2 Rest"
+        },
+        {
+            "id": 103077828,
+            "name": "3-2"
+        },
+        {
+            "id": 103077830,
+            "name": "4-0"
+        },
+        {
+            "id": 103077833,
+            "name": "4-1"
+        },
+        {
+            "id": 103077834,
+            "name": "4-2"
+        },
+        {
+            "id": 103077835,
+            "name": "4-3"
+        },
+        {
+            "id": 103077836,
+            "name": "5-0"
+        },
+        {
+            "id": 103077838,
+            "name": "5-1"
+        },
+        {
+            "id": 103077840,
+            "name": "6-0"
+        },
+        {
+            "id": 105914394,
+            "name": "3-1"
+        },
+        {
+            "id": 105914413,
+            "name": "5-3"
+        },
+        {
+            "id": 105914420,
+            "name": "6-2"
+        },
+        {
+            "id": 105914422,
+            "name": "7-0"
+        },
+        {
+            "id": 105914424,
+            "name": "7-1"
+        },
+        {
+            "id": 105914433,
+            "name": "4-4"
+        },
+        {
+            "id": 105914454,
+            "name": "8-0"
+        },
+        {
+            "id": 119107582,
+            "name": "2-0"
+        },
+        {
+            "id": 119107586,
+            "name": "2-1"
+        },
+        {
+            "id": 119107622,
+            "name": "0-7"
+        },
+        {
+            "id": 119107623,
+            "name": "1-7"
+        },
+        {
+            "id": 119107625,
+            "name": "2-7"
+        },
+        {
+            "id": 119107626,
+            "name": "0-8"
+        },
+        {
+            "id": 119107628,
+            "name": "1-8"
+        },
+        {
+            "id": 119107629,
+            "name": "0-9"
+        },
+        {
+            "id": 119107630,
+            "name": "3-0"
+        },
+        {
+            "id": 120732846,
+            "name": "4-5"
+        },
+        {
+            "id": 120732850,
+            "name": "6-4"
+        },
+        {
+            "id": 120732853,
+            "name": "7-2"
+        },
+        {
+            "id": 120732854,
+            "name": "7-3"
+        },
+        {
+            "id": 120732856,
+            "name": "8-1"
+        },
+        {
+            "id": 120732857,
+            "name": "5-5"
+        },
+        {
+            "id": 120732859,
+            "name": "6-5"
+        },
+        {
+            "id": 120732861,
+            "name": "7-4"
+        },
+        {
+            "id": 120732863,
+            "name": "8-2"
+        },
+        {
+            "id": 120732866,
+            "name": "8-3"
+        },
+        {
+            "id": 120732868,
+            "name": "9-0"
+        },
+        {
+            "id": 120732869,
+            "name": "9-1"
+        },
+        {
+            "id": 120732872,
+            "name": "9-2"
+        },
+        {
+            "id": 120732873,
+            "name": "6-6"
+        },
+        {
+            "id": 120732874,
+            "name": "3-6"
+        },
+        {
+            "id": 120732875,
+            "name": "4-6"
+        },
+        {
+            "id": 120732878,
+            "name": "5-6"
+        },
+        {
+            "id": 131224481,
+            "name": "No"
+        },
+        {
+            "id": 136687840,
+            "name": "5-4"
+        },
+        {
+            "id": 136687842,
+            "name": "6-3"
+        },
+        {
+            "id": 136694964,
+            "name": "1 Gol"
+        },
+        {
+            "id": 136694965,
+            "name": "2 Gol"
+        },
+        {
+            "id": 136694966,
+            "name": "3+ Gol"
+        },
+        {
+            "id": 136696184,
+            "name": "No Gol"
+        },
+        {
+            "id": 136696185,
+            "name": "Away"
+        },
+        {
+            "id": 136696581,
+            "name": "2-1"
+        },
+        {
+            "id": 136696582,
+            "name": "3-0"
+        },
+        {
+            "id": 136696583,
+            "name": "0-0"
+        },
+        {
+            "id": 136696584,
+            "name": "1-1"
+        },
+        {
+            "id": 136696585,
+            "name": "2-2"
+        },
+        {
+            "id": 136696586,
+            "name": "0-1"
+        },
+        {
+            "id": 136696587,
+            "name": "0-2"
+        },
+        {
+            "id": 136696588,
+            "name": "1-2"
+        },
+        {
+            "id": 136696589,
+            "name": "0-3"
+        },
+        {
+            "id": 136696590,
+            "name": "3-1"
+        },
+        {
+            "id": 136696591,
+            "name": "3-2"
+        },
+        {
+            "id": 136696592,
+            "name": "4-0"
+        },
+        {
+            "id": 136696593,
+            "name": "1-3"
+        },
+        {
+            "id": 136696594,
+            "name": "2-3"
+        },
+        {
+            "id": 136696595,
+            "name": "0-4"
+        },
+        {
+            "id": 136696596,
+            "name": "4-1"
+        },
+        {
+            "id": 136696627,
+            "name": "No"
+        },
+        {
+            "id": 136696649,
+            "name": "No"
+        },
+       
+        {
+            "id": 136698313,
+            "name": "Away"
+        },
+       
+        {
+            "id": 136701184,
+            "name": "2-8"
+        },
+        {
+            "id": 136701189,
+            "name": "3-7"
+        },
+        {
+            "id": 136701193,
+            "name": "4-7"
+        },
+        {
+            "id": 136701194,
+            "name": "3-8"
+        },
+        {
+            "id": 136702725,
+            "name": "2 Gol"
+        },
+        {
+            "id": 136702726,
+            "name": "3+ Gol"
+        },
+        {
+            "id": 136702847,
+            "name": "Draw"
+        },
+        {
+            "id": 136702848,
+            "name": "Away"
+        },
+        {
+            "id": 136703635,
+            "name": "Draw"
+        },
+        {
+            "id": 136703636,
+            "name": "Away"
+        },
+        {
+            "id": 136703768,
+            "name": "Away"
+        },
+        {
+            "id": 136695167,
+            "name": "Double Chance"
+        },
+        {
+            "id": 136689123,
+            "name": "No 1st Gol"
+        },
+        {
+            "id": 126679343,
+            "name": "1st Wicket Method"
+        },
+        {
+            "id": 136691361,
+            "name": "Draw - Draw"
+        },
+        {
+            "id": 136691952,
+            "name": "Double Chance"
+        },
+        {
+            "id": 136696391,
+            "name": "Beraberlikte İade"
+        },
+        {
+            "id": 136696392,
+            "name": "First Half Gol"
+        },
+        {
+            "id": 136696638,
+            "name": "Final Score"
+        },
+        {
+            "id": 136703809,
+            "name": "To Win the Trophy"
+        },
+        {
+            "id": 136699943,
+            "name": "Final Score"
+        },
+        {
+            "id": 136697151,
+            "name": "First Half Gol"
+        },
+        {
+            "id": 136698312,
+            "name": "Away to Score in 2. Half"
+        },
+        {
+            "id": 136703810,
+            "name": "Method of Victory"
+        },
+        {
+            "id": 136703811,
+            "name": "To Qualify"
+        },
+        {
+            "id": 136703812,
+            "name": "Extra Time İlk Yarı Result"
+        },
+        {
+            "id": 136703813,
+            "name": "Alternative Match Gol"
+        },
+        {
+            "id": 136703814,
+            "name": "1st Gol - Extra Time"
+        },
+        {
+            "id": 136703815,
+            "name": "Extra Time İlk Yarı Gol"
+        },
+        {
+            "id": 136703816,
+            "name": "Alternative İlk Yarı Gol"
+        },
+        {
+            "id": 136703817,
+            "name": "Extra Time Korners"
+        },
+        {
+            "id": 136703818,
+            "name": "Toplam Korner"
+        },
+        {
+            "id": 136703821,
+            "name": "Toplam Korner 2 li"
+        },
+        {
+            "id": 136703825,
+            "name": "Alternative Total Korners"
+        },
+        {
+            "id": 136703834,
+            "name": "Gol Aralığı (2-1)"
+        },
+        {
+            "id": 136703836,
+            "name": "Alternative Gol Aralığı (0-0)"
+        },
+        {
+            "id": 136703842,
+            "name": "İlk Yarı Gol Aralığı (0-0)"
+        },
+        {
+            "id": 136703844,
+            "name": "Alternative İlk Yarı Gol Aralığı (0-0)"
+        },
+        {
+            "id": 136703858,
+            "name": "13. Korner"
+        },
+        {
+            "id": 136703860,
+            "name": "Son Korner"
+        },
+        {
+            "id": 136703862,
+            "name": "Alternative Handikap"
+        },
+        {
+            "id": 136703863,
+            "name": "Maç Sonu ve Karşılıklı Gol"
+        },
+        {
+            "id": 136703864,
+            "name": "Alternative İlk Yarı Handikap"
+        },
+        {
+            "id": 136703866,
+            "name": "Evsahibi İki Yarıda Gol Atarmı"
+        },
+        {
+            "id": 136703868,
+            "name": "Deplasman İki Yarıda Gol Atarmı"
+        },
+        {
+            "id": 136703869,
+            "name": "Alternative İlk Yarı Gol Aralığı (2-0)"
+        },
+        {
+            "id": 136704028,
+            "name": "Alternative İlk Yarı Gol Aralığı (1-0)"
+        },
+        {
+            "id": 136704050,
+            "name": "Golcorers"
+        },
+        {
+            "id": 136704051,
+            "name": "To Score at Any Time"
+        },
+        {
+            "id": 136704070,
+            "name": "Alternative Handikap"
+        },
+        {
+            "id": 136704072,
+            "name": "Alternative Gol Aralığı (2-1)"
+        },
+        {
+            "id": 136704080,
+            "name": "Alternative Handikap"
+        },
+        {
+            "id": 136704093,
+            "name": "2. Gol Tarzı"
+        },
+        {
+            "id": 136704116,
+            "name": "Alternative Gol Aralığı (3-0)"
+        },
+        {
+            "id": 136704340,
+            "name": "Alternative İlk Yarı Handikap"
+        },
+        
+        
+        {
+            "id": 136706079,
+            "name": "Both Teams to Score"
+        },
+        {
+            "id": 136706303,
+            "name": "Evsahibi İkinci Yarıda Gol Atarmı"
+        },
+        {
+            "id": 136706304,
+            "name": "Son Golü Hangi Takım Atar"
+        },
+        {
+            "id": 136706305,
+            "name": "Result / Both Teams To Score"
+        },
+        {
+            "id": 136706307,
+            "name": "İkinci Yarı Kornerler"
+        },
+        {
+            "id": 136706554,
+            "name": "Home to Score in Both Halves"
+        },
+        {
+            "id": 136706558,
+            "name": "2. Half Gol"
+        },
+        {
+            "id": 136706559,
+            "name": "Draw No Bet"
+        },
+        {
+            "id": 136706561,
+            "name": "Gol Aralığı (1-0)"
+        },
+        {
+            "id": 136706562,
+            "name": "Alternative Gol Aralığı (1-1)"
+        },
+        {
+            "id": 136706564,
+            "name": "Alternative İlk Yarı Gol"
+        },
+        {
+            "id": 136706566,
+            "name": "Draw No Bet"
+        },
+        {
+            "id": 136830609,
+            "name": "Alternative İlk Yarı Gol Aralığı (0-0)"
+        },
+        {
+            "id": 136830615,
+            "name": "Alternative Handikap"
+        },
+        {
+            "id": 136830669,
+            "name": "Alternative İlk Yarı Handicap Result"
+        },
+        
+        
+        {
+            "id": 136830707,
+            "name": "Gol Aralığı"
+        },
+        {
+            "id": 136830709,
+            "name": "İlk Yarı Gol Aralığı"
+        },
+        
+        {
+            "id": 137917697,
+            "name": "Deplasman İkinci Yarı Gol Atarmı"
+        },
+        {
+            "id": 137918030,
+            "name": "İlk Yarı Sonucu ve Karşılıklı Gol"
+        },
+        {
+            "id": 137918031,
+            "name": "İlk Yarı Sonucu ve Toplam Gol Alt/Üst"
+        },
+        {
+            "id": 1256989885,
+            "name": "Evsahibi İlk Yarı Yarı Gol Alt/Üst"
+        },
+        {
+            "id": 1256989887,
+            "name": "Deplasman İlk Yarı Yarı Gol Alt/Üst"
+        },
+        {
+            "id": 1256989888,
+            "name": "Evsahibi İkinci Yarı Gol Alt/Üst"
+        },
+        {
+            "id": 1256989889,
+            "name": "Deplasman İkinci Yarı Gol Alt/Üst"
+        },
+        {
+            "id": 1257101763,
+            "name": "Çifte Şans"
+        },
+        {
+            "id": 1257101766,
+            "name": "İlk Yarı Gol Sayısı"
+        },
+        {
+            "id": 1265634165,
+            "name": "4. Gol"
+        },
+        {
+            "id": 1256989855,
+            "name": "1. Gol"
+        },
+        {
+            "id": 1265634174,
+            "name": "2. Gol"
+        },
+        {
+            "id": 1265634178,
+            "name": "5. Gol"
+        },
+        {
+            "id": 28076,
+            "name": "İkinci Yarı Kazananı"
+        },
+        {
+            "id": 28077,
+            "name": "Toplam Gol Alt/Üst"
+        },
+        {
+            "id": 28080,
+            "name": "Maç Sonu Handikap"
+        },
+        {
+            "id": 28085,
+            "name": "Tek/Çift"
+        },
+        {
+            "id": 28086,
+            "name": "Evsahibi Gol Alt/Üst"
+        },
+        {
+            "id": 28088,
+            "name": "Deplasman Gol Alt/Üst"
+        },
+        {
+            "id": 28089,
+            "name": "Kesin Skor"
+        },
+        {
+            "id": 28096,
+            "name": "3. Gol"
+        },
+        {
+            "id": 28098,
+            "name": "Deplasman İkinci Yarıda Gol Atarmı"
+        },
+        {
+            "id": 28099,
+            "name": "İkinci Yarı Karşılıklı Gol"
+        },
+        {
+            "id": 28100,
+            "name": "Evsahibi Gol Sayısı"
+        },
+        {
+            "id": 28101,
+            "name": "Deplasman Gol Sayısı"
+        },
+        {
+            "id": 28182,
+            "name": "Son Golü Hangi Takım Atar"
+        },
+        {
+            "id": 31355,
+            "name": "İlk Yarı Sonucu"
+        },
+        {
+            "id": 31369,
+            "name": "İlk Yarı ve Maç Sonu"
+        },
+        {
+            "id": 31379,
+            "name": "İlk Yarı Karşılıklı Gol"
+        },
+        {
+            "id": 31386,
+            "name": "İlk Yarı Kesin Skor"
+        },
+        {
+            "id": 31387,
+            "name": "İlk Yarı Handikap"
+        },
+        {
+            "id": 619917,
+            "name": "Handicap"
+        },
+        {
+            "id": 619918,
+            "name": "Handicap İlk Yarı"
+        },
+        {
+            "id": 976209,
+            "name": "İlk Yarı Handikap"
+        }
+    ]
+}

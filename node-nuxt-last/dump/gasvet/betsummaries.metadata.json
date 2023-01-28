@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"gasvet.betsummaries"}],"uuid":"969ead3b2a844295885ae9b94b683bb1","collectionName":"betsummaries","type":"collection"}

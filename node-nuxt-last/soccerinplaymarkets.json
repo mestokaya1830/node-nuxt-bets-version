@@ -1,0 +1,810 @@
+[
+  {
+    "mid":17,
+    "mn":"Maç Bahsi"
+  },
+  {
+      "mid":20589,
+      "mn":"Maç Bahsi ve Toplam Gol Alt/Üst 2.5"
+  },
+  {
+      "mid":20592,
+      "mn":"Maç Bahsi ve Toplam Gol Alt/Üst 3.5"
+  },
+  {
+      "mid":118,
+      "mn":"1.Gol"
+  },
+  {
+      "mid":4956,
+      "mn":"İlk Yarı 1.Gol"
+  },
+  {
+      "mid":864,
+      "mn":"1.Golü Hangi Oyuncu Atar"
+  },
+  {
+    "mid": 19508,
+    "mn": "Takımlardan Biri 1 Farkla Kazanırmı"
+  },
+  {
+      "mid": 19509,
+      "mn": "Takımlardan Biri 2 Farkla Kazanırmı"
+  },
+  {
+      "mid": 19510,
+      "mn": "Takımlardan Biri 3 Farkla Kazanırmı"
+  },
+  {
+      "mid": 19513,
+      "mn": "Takımlardan Biri 6 Farkla Kazanırmı"
+  },
+  {
+    "mid": 7824,
+    "mn": "Karşılıklı Gol"
+  },
+  {
+    "mid": 15085,
+    "mn": "İlk Yarı Karşılıklı Gol"
+  },
+  {
+    "mid": 19193,
+    "mn": "Kesin Skor"
+  },
+  {
+    "mid": 26644,
+    "mn": "İlk Yarı Kesin Skor"
+  },
+  {
+    "mid": 20590,
+    "mn": "Çoklu Kesin Skor"
+  },
+  {
+    "mid": 3187,
+    "mn": "Çifte Şans"
+  },
+  {
+    "mid": 12119,
+    "mn": "Beraberlikte İade"
+  },
+  {
+    "mid":  22506,
+    "mn": "En Çok Golü Hangi Oyuncu Atar"
+  },
+  {
+    "mid": 11748,
+    "mn": "İlk Yarı Çifte Şans"
+  },
+  {
+    "mid": 2488,
+    "mn": "İlk Yarı Bahsi"
+  },
+  {
+    "mid": 21,
+    "mn": "İlk Yarı ve Maç Bahsi"
+  },
+  {
+    "mid": 52,
+    "mn": "Handikap 0:1"
+  },
+  {
+    "mid": 54,
+    "mn": "Handikap 1:0"
+  },
+  {
+    "mid": 501,
+    "mn": "Handikap 0:2"
+  },
+  {
+    "mid": 502,
+    "mn": "Handikap 2:0"
+  },
+  {
+    "mid":  22505,
+    "mn": "Son Golü Hangi Oyuncu Atar"
+  },
+  {
+    "mid": 24392,
+    "mn": "Maç Bahsi ve Karşılıklı Gol"
+  },
+  {
+    "mid": 1329,
+    "mn": "Hangi Devre Gol Çok Olur?"
+  },
+  {
+    "mid":  4794,
+    "mn": "Hangi Devre Çok Korner Olur?"
+  },
+  {
+    "mid": 4523,
+    "mn": "Toplam Korner Alt/Üst"
+  },
+  {
+    "mid": 4786,
+    "mn": "İlk Yarı Toplam Korner Alt/Üst"
+  },
+  {
+      "mid": 4790,
+      "mn": "İkinci Yarı Toplam Korner Alt/Üst"
+  },
+  {
+    "mid": 17925,
+    "mn": "Toplam Korner Tek/Çift"
+  },
+  {
+    "mid":  17931,
+    "mn": "İlk Yarı Toplam Korner Tek/Çift"
+  },
+  {
+    "mid": 4665,
+    "mn": "Toplam Gol Tek/Çift"
+  },
+  {
+    "mid": 16449,
+    "mn": "İlk Yarı Toplam Gol Tek/Çift"
+  },
+  {
+    "mid": 4726,
+    "mn": "Evsahibi Gol Sayısı (3+)"
+  },
+  {
+    "mid":  16986,
+    "mn": "Hangi Oyuncu (3+) Gol Atar"
+  },
+  {
+    "mid":  21043,
+    "mn": "Maç Bahsi ve Golcü"
+  },
+  {
+    "mid":  12120,
+    "mn": "Hangi Oyuncu (2+) Gol Atar"
+  },
+  {
+    "mid":   3912,
+    "mn": "Oyun Yarışı"
+  },
+  {
+    "mid": 17672,
+    "mn": "Evsahibi Devre Gol"
+  },
+  {
+    "mid": 31316,
+    "mn": "İlk Yarı Evsahibi Toplam Gol Alt/Üst 0.5"
+  },
+  {
+    "mid": 31317,
+    "mn": "İlk Yarı Evsahibi Toplam Gol Alt/Üst 1.5"
+  },
+  {
+    "mid": 11087,
+    "mn": "Evsahibi Gol Atarmı"
+  },
+  {
+    "mid": 19704,
+    "mn": "Evsahibi Her İki Devre Gol"
+  },
+  {
+    "mid":  15051,
+    "mn": "Evsahibi Gol Yemeden Kazanırmı"
+  },
+  {
+    "mid": 17673,
+    "mn": "Deplasman Devre Gol"
+  },
+  {
+    "mid": 31319,
+    "mn": "İlk Yarı Deplasman Toplam Gol Alt/Üst 0.5"
+  },
+  {
+      "mid": 31320,
+      "mn": "İlk Yarı Deplasman Toplam Gol Alt/Üst 1.5"
+  },
+  {
+    "mid": 11086,
+    "mn": "Deplasman Gol Atarmı"
+  },
+  {
+    "mid": 19705,
+    "mn": "Delasman Her İki Devre Gol"
+  },
+  {
+    "mid":  15052,
+    "mn": "Deplasman Gol Yemeden Kazanırmı"
+  },
+  {
+    "mid": 4778,
+    "mn": "İkinci Yarı Hangi Takım Daha Çok Gol Atar"
+  },
+  {
+    "mid": 4728,
+    "mn": "İkinci Yarı İlk Golü Hangi Takım Atar"
+  },
+  {
+    "mid": 4722,
+    "mn": "Son Golü Hangi Takım Atar"
+  },
+  {
+    "mid":  27531,
+    "mn": "Toplam Gol Aralıgı (0-4+)"
+  },
+  {
+    "mid":  27534,
+    "mn": "Toplam Gol Aralıgı (0-5+)"
+  },
+  {
+    "mid":  27535,
+    "mn": "Toplam Gol Aralıgı (0-6+)"
+  },
+  {
+    "mid":   27536,
+    "mn": "İlk Yarı Gol Aralıgı (0-2+)"
+  },
+  {
+    "mid":   27537,
+    "mn": "İlk Yarı Gol Aralıgı (0-3+)"
+  },
+  {
+    "mid": 20095,
+    "mn": "Toplam Gol Sayısı (5+)"
+  },
+  {
+      "mid": 2196,
+      "mn": "Toplam Gol Sayısı (8+)"
+  },
+  {
+    "mid": 7233,
+    "mn": "Toplam Gol Alt/Üst 0.5"
+  },
+  {
+    "mid": 1772,
+    "mn": "Toplam Gol Alt/Üst 1.5"
+  },
+  {
+    "mid": 173,
+    "mn": "Toplam Gol Alt/Üst 2.5"
+  },
+  {
+    "mid": 8933,
+    "mn": "Toplam Gol Alt/Üst 3.5"
+  },
+  {
+    "mid": 1791,
+    "mn": "Toplam Gol Alt/Üst 4.5"
+  },
+  {
+    "mid": 859,
+    "mn": "Toplam Gol Alt/Üst 5.5"
+  },
+  {
+    "mid": 19513,
+    "mn": "Toplam Gol Alt/Üst 12.5"
+  },
+  {
+    "mid": 4718,
+    "mn": "İlk Yarı Gol Sayısı (3+)"
+  },
+  {
+      "mid": 4732,
+      "mn": "İkinci Yarı Gol Sayısı (3+)"
+  },
+  {
+    "mid": 7688,
+    "mn": "İlk Yarı Toplam Gol Alt/Üst 0.5"
+  },
+  {
+      "mid": 7689,
+      "mn": "İlk Yarı Toplam Gol Alt/Üst 1.5"
+  },
+  {
+      "mid": 7890,
+      "mn": "İlk Yarı Toplam Gol Alt/Üst 2.5"
+  },
+  {
+      "mid": 7891,
+      "mn": "İlk Yarı Toplam Gol Alt/Üst 3.5"
+  },
+  {
+    "mid": 19595,
+    "mn": "İkinci Yarı Toplam Gol Alt/Üst 0.5"
+  },
+  {
+    "mid": 19596,
+    "mn": "İkinci Yarı Toplam Gol Alt/Üst 1.5"
+  },
+  {
+    "mid": 19597,
+    "mn": "İkinci Yarı Toplam Gol Alt/Üst 2.5"
+  },
+  {
+    "mid": 20506,
+    "mn": "İkinci Yarı Toplam Gol Alt/Üst 3.5"
+  },
+  {
+    "mid": 16454,
+    "mn": "Evsahibi Toplam Gol Alt/Üst 1.5"
+  },
+  {
+    "mid": 24138,
+    "mn": "Evsahibi Toplam Gol Alt/Üst 2.5"
+  },
+  {
+    "mid": 16455,
+    "mn": "Deplasman Toplam Gol Alt/Üst 1.5"
+  },
+  {
+      "mid": 20085,
+      "mn": "Deplasman Toplam Gol Alt/Üst 2.5"
+  },
+  {
+    "mid": 4720,
+    "mn": "İlk Yarı Evsahibi Gol Sayısı (3+)"
+  },
+  {
+      "mid": 4733,
+      "mn": "İkinci Yarı Evsahibi Gol Sayısı (3+)"
+  },
+  {
+    "mid": 4727,
+    "mn": "Deplasman Gol Sayısı (3+)"
+  },
+  {
+    "mid": 4721,
+    "mn": "İlk Yarı Deplasman Gol Sayısı (3+)"
+  },
+  {
+      "mid": 4734,
+      "mn": "İkinci Yarı Deplasman Gol Sayısı (3+)"
+  },
+  {
+    "mid": 18354,
+    "mn": "00:00 - 15:00 Kim Daha Çok Gol Atar"
+  },
+  {
+    "mid": 18355,
+    "mn": "15:01 - 30:00 Kim Daha Çok Gol Atar"
+  },
+  {
+    "mid":  18356,
+    "mn": "30:01 - 45:00 Kim Daha Çok Gol Atar"
+  },
+  {
+    "mid": 18357,
+    "mn": "45:01 - 60:00 Kim Daha Çok Gol Atar"
+  },
+  {
+    "mid": 18358,
+    "mn": "60:01 - 75:00 Kim Daha Çok Gol Atar"
+  },
+  {
+    "mid":  18359,
+    "mn": "75:01 - 90:00 Kim Daha Çok Gol Atar"
+  },
+  {
+    "mid": 24630,
+    "mn": "00:00 - 15:00 Evsahibi Toplam Gol Alt/Üst 0.5"
+  },
+  {
+    "mid": 24631,
+    "mn": "15:01 - 30:00 Evsahibi Toplam Gol Alt/Üst 0.5"
+  },
+  {
+    "mid": 24632,
+    "mn": "30:01 - 45:00 Evsahibi Toplam Gol Alt/Üst 0.5"
+  },
+  {
+    "mid": 24633,
+    "mn": "45:01 - 60:00 Evsahibi Toplam Gol Alt/Üst 0.5"
+  },
+  {
+    "mid": 24634,
+    "mn": "60:01 - 75:00 Evsahibi Toplam Gol Alt/Üst 0.5"
+  },
+  {
+    "mid": 24635,
+    "mn": "75:01 - 90:00 Evsahibi Toplam Gol Alt/Üst 0.5"
+  },
+  {
+    "mid": 24636,
+    "mn": "00:00 - 15:00 Deplasman Toplam Gol Alt/Üst 0.5"
+  },
+  {
+    "mid": 24637,
+    "mn": "15:01 - 30:00 Deplasman Toplam Gol Alt/Üst 0.5"
+  },
+  {
+    "mid": 24638,
+    "mn": "30:01 - 45:00 Deplasman Toplam Gol Alt/Üst 0.5"
+  },
+  {
+    "mid": 24639,
+    "mn": "45:01 - 60:00 Deplasman Toplam Gol Alt/Üst 0.5"
+  },
+  {
+    "mid": 24640,
+    "mn": "60:01 - 75:00 Deplasman Toplam Gol Alt/Üst 0.5"
+  },
+  {
+    "mid": 24641,
+    "mn": "75:01 - 90:00 Deplasman Toplam Gol Alt/Üst 0.5"
+  },
+  {
+    "mid": 15539,
+    "mn": "00:00 - 15:00 Toplam Gol Alt/Üst 0.5"
+  },
+  {
+    "mid": 15540,
+    "mn": "15:01 - 30:00 Toplam Gol Alt/Üst 0.5"
+  },
+  {
+    "mid": 15541,
+    "mn": "30:01 - 45:00 Toplam Gol Alt/Üst 0.5"
+  },
+  {
+    "mid": 15542,
+    "mn": "45:01 - 60:00 Toplam Gol Alt/Üst 0.5"
+  },
+  {
+    "mid": 15543,
+    "mn": "60:01 - 75:00 Toplam Gol Alt/Üst 0.5"
+  },
+  {
+    "mid": 15544,
+    "mn": "75:00 - Maç Bahsi Toplam Gol Alt/Üst 0.5"
+  },
+  {
+    "mid": 15545,
+    "mn": "00:00 - 15:00 Toplam Gol Alt/Üst 1.5"
+  },
+  {
+    "mid": 15546,
+    "mn": "15:01 - 30:00 Toplam Gol Alt/Üst 1.5"
+  },
+  {
+    "mid": 15547,
+    "mn": "30:01 - 45:00 Toplam Gol Alt/Üst 1.5"
+  },
+  {
+    "mid": 15548,
+    "mn": "45:01 - 60:00 Toplam Gol Alt/Üst 1.5"
+  },
+  {
+    "mid": 15549,
+    "mn": "60:01 - 75:00 Toplam Gol Alt/Üst 1.5"
+  },
+  {
+    "mid": 15550,
+    "mn": "75:00 - Maç Bahsi Toplam Gol Alt/Üst 1.5"
+  },
+  {
+    "mid": 15456,
+    "mn": "00:00 - 15:00 Toplam Korner Alt/Üst"
+  },
+  {
+    "mid": 15457,
+    "mn": "15:01 - 30:00 Toplam Korner Alt/Üst"
+  },
+  {
+    "mid": 15458,
+    "mn": "30:01 - 45:00 Toplam Korner Alt/Üst"
+  },
+  {
+    "mid": 15459,
+    "mn": "45:01 - 60:00 Toplam Korner Alt/Üst"
+  },
+  {
+    "mid": 15460,
+    "mn": "60:01 - 75:00 Toplam Korner Alt/Üst"
+  },
+  {
+    "mid": 15461,
+    "mn": "75:00 - Maç Bahsi Toplam Korner Alt/Üst"
+  },
+  {
+    "mid":  119,
+    "mn": "1.Korner"
+  },
+  {
+    "mid":  1107,
+    "mn": "İkinci Yarı 1. Korner"
+  },
+  {
+    "mid":  176,
+    "mn": "İlk Sarıkart"
+  },
+  {
+    "mid":  610,
+    "mn": "İkinci Yarı İlk Sarıkart"
+  },
+  {
+    "mid":   13497,
+    "mn": "İlk Yarı En Çok Korner"
+  },
+  {
+    "mid":   19897,
+    "mn": "İkinci Yarı En Çok Korner"
+  },
+  {
+    "mid":  4793,
+    "mn": "En Çok Korner"
+  },
+  {
+    "mid":  18745,
+    "mn": "İlk Yarı En Çok Sarıkart"
+  },
+  {
+    "mid":  18746,
+    "mn": "İkinci Yarı En Çok Sarıkart"
+  },
+  {
+    "mid": 4754,
+    "mn": "Her İki Devre Sarıkart"
+  },
+  {
+    "mid": 4753,
+    "mn": "En Çok Sarıkart Sayısı"
+  },
+  {
+    "mid":  4784,
+    "mn": "Evsahibi Toplam Korner Alt/Üst"
+  },
+  {
+    "mid":  4785,
+    "mn": "Deplasman Toplam Korner Alt/Üst"
+  },
+  {
+    "mid":  4787,
+    "mn": "Evsahibi İlk Yarı Toplam Korner Alt/Üst"
+  },
+  {
+    "mid":  4788,
+    "mn": "Deplasman İlk Yarı Toplam Korner Alt/Üst"
+  },
+  {
+    "mid":  4791,
+    "mn": "Evsahibi İkinci Yarı Toplam Korner Alt/Üst"
+  },
+  {
+    "mid":  4792,
+    "mn": "Deplasman İkinci Yarı Toplam Korner Alt/Üst"
+  },
+  {
+    "mid": 1328,
+    "mn": "Toplam Penaltı Sayısı"
+  },
+  {
+    "mid": 9922,
+    "mn": "Toplam Sarıkart Alt/Üst"
+  },
+  {
+    "mid":  4752,
+    "mn": "İlk Yarı Toplam Sarıkart Alt/Üst"
+  },
+  {
+    "mid":  4424,
+    "mn": "İkinci Yarı Toplam Sarıkart Alt/Üst"
+  },
+  {
+    "mid": 17929,
+    "mn": "Toplam Sarıkart Tek/Çift"
+  },
+  {
+    "mid": 17934,
+    "mn": "İlk Yarı Toplam Sarıkart Tek/Çift"
+  },
+  {
+    "mid":  18739,
+    "mn": "Evsahibi Toplam Sarıkart Alt/Üst 1.5"
+  },
+  {
+    "mid":  18740,
+    "mn": "Deplasman Toplam Sarıkart Alt/Üst 1.5"
+  },
+  {
+    "mid":  18741,
+    "mn": "Evsahibi İlk Yarı Toplam Sarıkart Alt/Üst 0.5"
+  },
+  {
+    "mid":  18742,
+    "mn": "Deplasman İkinci Yarı Toplam Sarıkart Alt/Üst 0.5"
+  },
+  {
+    "mid":  18743,
+    "mn": "Evsahibi İkinci Yarı Toplam Sarıkart Alt/Üst 1.5"
+  },
+  {
+    "mid":  18744,
+    "mn": "Deplasman İkinci Yarı Toplam Sarıkart Alt/Üst 1.5"
+  },
+  {
+    "mid":  19927,
+    "mn": "00:00 - 15:00 Toplam Sarıkart Alt/Üst"
+  },
+  {
+    "mid":  19928,
+    "mn": "15:01 - 30:00 Toplam Sarıkart Alt/Üst"
+  },
+  {
+    "mid":  19929,
+    "mn": "30:01 - 45:00 Toplam Sarıkart Alt/Üst"
+  },
+  {
+    "mid":  19930,
+    "mn": "45:01 - 60:00 Toplam Sarıkart Alt/Üst"
+  },
+  {
+    "mid":  19931,
+    "mn": "60:01 - 75:00 Toplam Sarıkart Alt/Üst"
+  },
+  {
+    "mid":  19932,
+    "mn": "75:01 - 90:00 Toplam Sarıkart Alt/Üst"
+  },
+  {
+    "mid":  15491,
+    "mn": "Korner Yarışı"
+  },
+  {
+    "mid": 15492,
+    "mn": "Korner Yarışı İkinci Yarı"
+  },
+  {
+    "mid": 4755,
+    "mn": "Toplam Kırmızı Kart"
+  },
+  {
+    "mid":   19976,
+    "mn": "Kırmızı Kart"
+  },
+  {
+    "mid": 13461,
+    "mn": "İlk Yarı 2. Golü Kim Atar"
+  },
+  {
+      "mid": 13462,
+      "mn": "İlk Yarı 3. Golü Kim Atar"
+  },
+  {
+      "mid": 13463,
+      "mn": "İlk Yarı 4. Golü Kim Atar"
+  },
+  {
+      "mid": 313,
+      "mn": "Toplam Gol Alt/Üst 6.5"
+  },
+  {
+      "mid": 1383,
+      "mn": "Toplam Gol Alt/Üst 7.5"
+  },
+  {
+      "mid": 322,
+      "mn": "Toplam Gol Alt/Üst 8.5"
+  },
+  {
+      "mid": 4016,
+      "mn": "Toplam Gol Alt/Üst 9.5"
+  },
+  {
+      "mid": 118,
+      "mn": "1. Gol"
+  },
+  {
+      "mid": 1344,
+      "mn": "2. Gol"
+  },
+  {
+      "mid": 1345,
+      "mn": "3. Gol"
+  },
+  {
+      "mid": 1346,
+      "mn": "4. Gol"
+  },
+  {
+      "mid": 1347,
+      "mn": "5. Gol"
+  },
+  {
+      "mid": 1348,
+      "mn": "6. Gol"
+  },
+  {
+      "mid": 2199,
+      "mn": "7. Gol"
+  },
+  {
+      "mid": 20084,
+      "mn": "Deplasman Toplam Gol Alt/Üst 0.5"
+  },
+  {
+      "mid": 20087,
+      "mn": "Evsahibi Toplam Gol Alt/Üst 3.5"
+  },
+  {
+      "mid": 20089,
+      "mn": "Evsahibi Toplam Gol Alt/Üst 4.5"
+  },
+  {
+      "mid": 27538,
+      "mn": "Evsahibi Toplam Gol Alt/Üst 5.5"
+  },
+  {
+      "mid": 20088,
+      "mn": "Deplasman Toplam Gol Alt/Üst 3.5"
+  },
+  {
+      "mid": 20090,
+      "mn": "Deplasman Toplam Gol Alt/Üst 4.5"
+  },
+  {
+      "mid": 27540,
+      "mn": "Deplasman Toplam Gol Alt/Üst 5.5"
+  },
+  {
+      "mid": 31318,
+      "mn": "İlk Yarı Evsahibi Toplam Gol Alt/Üst 2.5"
+  },
+  {
+      "mid": 31321,
+      "mn": "İlk Yarı Deplasman Toplam Gol Alt/Üst 2.5"
+  },
+  {
+      "mid": 19511,
+      "mn": "Takımlardan Biri 4 Farkla Kazanırmı"
+  },
+  {
+      "mid": 19512,
+      "mn": "Takımlardan Biri 5 Farkla Kazanırmı"
+  },
+  {
+      "mid": 20083,
+      "mn": "Evsahibi 0,5 Golle Kazanırmı"
+  }, 
+  {
+      "mid":  1327,
+      "mn": "İkinci Yarı Topu Oyuna Kim Sokar?"
+  },
+  {
+      "mid":  4635,
+      "mn": "İkinci Yarı İlk Gol Vuruşu"
+  },
+  {
+      "mid":  2427,
+      "mn": "İkinci Yarı İlk Ne Olur?"
+  },
+  {
+      "mid":   24599,
+      "mn": "İkinci Yarı Toplam Gol Alt/Üst 6.5"
+  },
+  {
+      "mid":   24600,
+      "mn": "İkinci Yarı Toplam Gol Alt/Üst 7.5"
+  },
+  {
+      "mid":   24601,
+      "mn": "İkinci Yarı Toplam Gol Alt/Üst 8.5"
+  },
+  {
+      "mid":   32300,
+      "mn": "İkinci Golü Hangi Oyuncu Atar?"
+  },
+  {
+      "mid":   2939,
+      "mn": "İkinci Gol Nasıl Olur?"
+  },
+  {
+      "mid":   13453,
+      "mn": "1.Penaltı Gol Olurmu?"
+  },
+  {
+      "mid":   2940,
+      "mn": "3. Gol Nasıl Olur?"
+  },
+  {
+      "mid":   2949,
+      "mn": "10. Gol"
+  },
+  {
+      "mid":   3477,
+      "mn": "11. Gol"
+  }
+]

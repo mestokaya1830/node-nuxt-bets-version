@@ -1,0 +1,20 @@
+[
+  {
+    "country": "Almanya",
+    "leagues": [
+     {
+       "name":"Bundesliga",
+       "url":"https://www.fotomac.com.tr/canli-skor/sezon/bundesliga-19-20"
+     }
+    ]
+  },
+  {
+    "country": "Arnavutluk",
+    "leagues": [
+      {
+        "name":"Kategoria e Pare",
+        "url":"https://www.fotomac.com.tr/canli-skor/sezon/kategoria-e-pare-19-20"
+      }
+    ]
+  }
+]

@@ -1,0 +1,3 @@
+on terminal run 
+npm run dev
+ngrok http 3000

@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"gasvet.settimes"}],"uuid":"6ff2e32b6cb6491b8b7cacc3f6112979","collectionName":"settimes","type":"collection"}

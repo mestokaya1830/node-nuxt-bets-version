@@ -1,0 +1,278 @@
+[
+  {
+    "name": "home",
+    "path": "/home",
+    "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/node-nuxt-bet/pages/home.vue",
+    "chunkName": "pages/home",
+    "children": [
+      {
+        "path": "account",
+        "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/node-nuxt-bet/pages/home/account.vue",
+        "chunkName": "pages/home/account",
+        "children": [
+          {
+            "name": "home-account",
+            "path": "",
+            "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/node-nuxt-bet/pages/home/account/index.vue",
+            "chunkName": "pages/home/account/index",
+            "_name": "_283214ee"
+          },
+          {
+            "name": "home-account-basketinplaymarkets",
+            "path": "basketinplaymarkets",
+            "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/node-nuxt-bet/pages/home/account/basketinplaymarkets.vue",
+            "chunkName": "pages/home/account/basketinplaymarkets",
+            "_name": "_58d209d4"
+          },
+          {
+            "name": "home-account-basketliverate",
+            "path": "basketliverate",
+            "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/node-nuxt-bet/pages/home/account/basketliverate.vue",
+            "chunkName": "pages/home/account/basketliverate",
+            "_name": "_be2311b4"
+          },
+          {
+            "name": "home-account-basketmarkets",
+            "path": "basketmarkets",
+            "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/node-nuxt-bet/pages/home/account/basketmarkets.vue",
+            "chunkName": "pages/home/account/basketmarkets",
+            "_name": "_c14aa066"
+          },
+          {
+            "name": "home-account-basketrate",
+            "path": "basketrate",
+            "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/node-nuxt-bet/pages/home/account/basketrate.vue",
+            "chunkName": "pages/home/account/basketrate",
+            "_name": "_4c29233a"
+          },
+          {
+            "name": "home-account-basketratelimit",
+            "path": "basketratelimit",
+            "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/node-nuxt-bet/pages/home/account/basketratelimit.vue",
+            "chunkName": "pages/home/account/basketratelimit",
+            "_name": "_0a4c4d71"
+          },
+          {
+            "name": "home-account-boss",
+            "path": "boss",
+            "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/node-nuxt-bet/pages/home/account/boss.vue",
+            "chunkName": "pages/home/account/boss",
+            "_name": "_473fc6fe"
+          },
+          {
+            "name": "home-account-branch",
+            "path": "branch",
+            "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/node-nuxt-bet/pages/home/account/branch.vue",
+            "chunkName": "pages/home/account/branch",
+            "_name": "_04cf9536"
+          },
+          {
+            "name": "home-account-codelist",
+            "path": "codelist",
+            "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/node-nuxt-bet/pages/home/account/codelist.vue",
+            "chunkName": "pages/home/account/codelist",
+            "_name": "_500a241f"
+          },
+          {
+            "name": "home-account-creditlog",
+            "path": "creditlog",
+            "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/node-nuxt-bet/pages/home/account/creditlog.vue",
+            "chunkName": "pages/home/account/creditlog",
+            "_name": "_aa0e4172"
+          },
+          {
+            "name": "home-account-detailsaccount",
+            "path": "detailsaccount",
+            "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/node-nuxt-bet/pages/home/account/detailsaccount.vue",
+            "chunkName": "pages/home/account/detailsaccount",
+            "_name": "_04c170bf"
+          },
+          {
+            "name": "home-account-detailscomission",
+            "path": "detailscomission",
+            "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/node-nuxt-bet/pages/home/account/detailscomission.vue",
+            "chunkName": "pages/home/account/detailscomission",
+            "_name": "_320b2232"
+          },
+          {
+            "name": "home-account-gamelog",
+            "path": "gamelog",
+            "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/node-nuxt-bet/pages/home/account/gamelog.vue",
+            "chunkName": "pages/home/account/gamelog",
+            "_name": "_7c11352e"
+          },
+          {
+            "name": "home-account-generalset",
+            "path": "generalset",
+            "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/node-nuxt-bet/pages/home/account/generalset.vue",
+            "chunkName": "pages/home/account/generalset",
+            "_name": "_6280100e"
+          },
+          {
+            "name": "home-account-info",
+            "path": "info",
+            "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/node-nuxt-bet/pages/home/account/info.vue",
+            "chunkName": "pages/home/account/info",
+            "_name": "_683abd42"
+          },
+          {
+            "name": "home-account-loginlog",
+            "path": "loginlog",
+            "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/node-nuxt-bet/pages/home/account/loginlog.vue",
+            "chunkName": "pages/home/account/loginlog",
+            "_name": "_2a217b4f"
+          },
+          {
+            "name": "home-account-nextgoals",
+            "path": "nextgoals",
+            "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/node-nuxt-bet/pages/home/account/nextgoals.vue",
+            "chunkName": "pages/home/account/nextgoals",
+            "_name": "_5ddc5d49"
+          },
+          {
+            "name": "home-account-paycupons",
+            "path": "paycupons",
+            "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/node-nuxt-bet/pages/home/account/paycupons.vue",
+            "chunkName": "pages/home/account/paycupons",
+            "_name": "_387f9b8c"
+          },
+          {
+            "name": "home-account-profile",
+            "path": "profile",
+            "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/node-nuxt-bet/pages/home/account/profile.vue",
+            "chunkName": "pages/home/account/profile",
+            "_name": "_450ebd76"
+          },
+          {
+            "name": "home-account-register",
+            "path": "register",
+            "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/node-nuxt-bet/pages/home/account/register.vue",
+            "chunkName": "pages/home/account/register",
+            "_name": "_257ea6b7"
+          },
+          {
+            "name": "home-account-setlimit",
+            "path": "setlimit",
+            "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/node-nuxt-bet/pages/home/account/setlimit.vue",
+            "chunkName": "pages/home/account/setlimit",
+            "_name": "_50deeca6"
+          },
+          {
+            "name": "home-account-settime",
+            "path": "settime",
+            "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/node-nuxt-bet/pages/home/account/settime.vue",
+            "chunkName": "pages/home/account/settime",
+            "_name": "_6c711a6a"
+          },
+          {
+            "name": "home-account-singelbets",
+            "path": "singelbets",
+            "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/node-nuxt-bet/pages/home/account/singelbets.vue",
+            "chunkName": "pages/home/account/singelbets",
+            "_name": "_0bceb5e8"
+          },
+          {
+            "name": "home-account-soccerinplaymarkets",
+            "path": "soccerinplaymarkets",
+            "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/node-nuxt-bet/pages/home/account/soccerinplaymarkets.vue",
+            "chunkName": "pages/home/account/soccerinplaymarkets",
+            "_name": "_11ab9c91"
+          },
+          {
+            "name": "home-account-soccerliverate",
+            "path": "soccerliverate",
+            "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/node-nuxt-bet/pages/home/account/soccerliverate.vue",
+            "chunkName": "pages/home/account/soccerliverate",
+            "_name": "_52e96249"
+          },
+          {
+            "name": "home-account-soccermarkets",
+            "path": "soccermarkets",
+            "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/node-nuxt-bet/pages/home/account/soccermarkets.vue",
+            "chunkName": "pages/home/account/soccermarkets",
+            "_name": "_d6d7576c"
+          },
+          {
+            "name": "home-account-soccerrate",
+            "path": "soccerrate",
+            "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/node-nuxt-bet/pages/home/account/soccerrate.vue",
+            "chunkName": "pages/home/account/soccerrate",
+            "_name": "_0c4517dd"
+          },
+          {
+            "name": "home-account-soccerratelimit",
+            "path": "soccerratelimit",
+            "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/node-nuxt-bet/pages/home/account/soccerratelimit.vue",
+            "chunkName": "pages/home/account/soccerratelimit",
+            "_name": "_d0a272a4"
+          },
+          {
+            "name": "home-account-Users",
+            "path": "Users",
+            "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/node-nuxt-bet/pages/home/account/Users.vue",
+            "chunkName": "pages/home/account/Users",
+            "_name": "_35e3e1f8"
+          },
+          {
+            "name": "home-account-users-id",
+            "path": "users/:id?",
+            "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/node-nuxt-bet/pages/home/account/users/_id.vue",
+            "chunkName": "pages/home/account/users/_id",
+            "_name": "_366fea62"
+          }
+        ],
+        "_name": "_0cc10aaa"
+      },
+      {
+        "name": "home-basketfixture",
+        "path": "basketfixture",
+        "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/node-nuxt-bet/pages/home/basketfixture.vue",
+        "chunkName": "pages/home/basketfixture",
+        "_name": "_046c72fe"
+      },
+      {
+        "name": "home-basketinplay",
+        "path": "basketinplay",
+        "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/node-nuxt-bet/pages/home/basketinplay.vue",
+        "chunkName": "pages/home/basketinplay",
+        "_name": "_5f380991"
+      },
+      {
+        "name": "home-soccerfixture",
+        "path": "soccerfixture",
+        "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/node-nuxt-bet/pages/home/soccerfixture.vue",
+        "chunkName": "pages/home/soccerfixture",
+        "_name": "_19f92a04"
+      },
+      {
+        "name": "home-soccerinplay",
+        "path": "soccerinplay",
+        "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/node-nuxt-bet/pages/home/soccerinplay.vue",
+        "chunkName": "pages/home/soccerinplay",
+        "_name": "_efad3d18"
+      }
+    ],
+    "_name": "_65cf378d"
+  },
+  {
+    "name": "resetpass",
+    "path": "/resetpass",
+    "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/node-nuxt-bet/pages/resetpass.vue",
+    "chunkName": "pages/resetpass",
+    "_name": "_48023aa2"
+  },
+  {
+    "name": "welcome",
+    "path": "/welcome",
+    "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/node-nuxt-bet/pages/welcome.vue",
+    "chunkName": "pages/welcome",
+    "_name": "_5498f4b8"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/node-nuxt-bet/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_af5604d8"
+  }
+]

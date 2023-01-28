@@ -1,0 +1,14 @@
+
+  INSERT INTO `soccerinplay` (`cn`, `lid`, `ln`) VALUES ('Almanya', '1829', 'Bundesliga');
+  INSERT INTO `soccerinplay` (`cn`, `lid`, `ln`) VALUES ('Avusturya', '1640', '2.Liga');
+  INSERT INTO `soccerinplay` (`cn`, `lid`, `ln`) VALUES ('Bulgaristan', '5431', 'First Professional');
+  INSERT INTO `soccerinplay` (`cn`, `lid`, `ln`) VALUES ('Hırvatistan', '9036', '1.HNL');
+  INSERT INTO `soccerinplay` (`cn`, `lid`, `ln`) VALUES ('Macaristan', '9189', 'NB1');
+  INSERT INTO `soccerinplay` (`cn`, `lid`, `ln`) VALUES ('Polonya', '10331', 'Ekstraklasa');
+  INSERT INTO `soccerinplay` (`cn`, `lid`, `ln`) VALUES ('Sırbistan', '10655', 'Super League');
+  INSERT INTO `soccerinplay` (`cn`, `lid`, `ln`) VALUES ('Danimarka', '12599', '1st Division');
+  INSERT INTO `soccerinplay` (`cn`, `lid`, `ln`) VALUES ('izlanda', '13937', 'Cup');
+  INSERT INTO `soccerinplay` (`cn`, `lid`, `ln`) VALUES ('Portekiz', '16200', 'Primeira Liga');
+  INSERT INTO `soccerinplay` (`cn`, `lid`, `ln`) VALUES ('Polonya', '16282', 'I Liga');
+  INSERT INTO `soccerinplay` (`cn`, `lid`, `ln`) VALUES ('Slovenia', '18218', '1.SNL');
+  INSERT INTO `soccerinplay` (`cn`, `lid`, `ln`) VALUES ('izlanda', '50339', 'U19 League');

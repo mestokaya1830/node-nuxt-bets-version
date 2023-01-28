@@ -1,0 +1,442 @@
+[
+  {
+    "mid":15025,
+    "mn":"Maç Bahsi 3 lü"
+  },
+  {
+    "mid":66,
+    "mn":"Maç Bahsi 2 li"
+  },
+  {
+    "mid":3450    ,
+    "mn":"Maç Bahsi (USA)"
+  },
+  {
+    "mid":19849,
+    "mn":"İlk Yarı Bahsi 3 lü"
+  },
+  {
+    "mid":13974,
+    "mn":"İlk Yarı Bahsi 2 li"
+  },
+  {
+    "mid":7763,
+    "mn":"İlk Yarı Bahsi 2 li"
+  },
+  {
+    "mid":6710,
+    "mn":"İlk Yarı Toplam Sayı Alt/Üst"
+  },
+  {
+    "mid":15038,
+    "mn":"İlk Yarı Toplam Sayı Alt/Üst"
+  },
+  {
+    "mid":12173,
+    "mn":"İlk Yarı Toplam Sayı Tek/Çift"
+  },
+  {
+    "mid":31512,
+    "mn":"İlk Çeyrek Bahsi 3 lü"
+  },
+  {
+    "mid":14610,
+    "mn":"İlk Çeyrek Bahsi 2 li"
+  },
+  {
+    "mid":7356,
+    "mn":"İlk Çeyrek Toplam Sayı Alt/Üst"
+  },
+  {
+    "mid":12426,
+    "mn":"Evsahibi Toplam Sayı Alt/Üst"
+  },
+  {
+    "mid":18188,
+    "mn":"Evsahibi İlk Yarı Toplam Sayı Alt/Üst"
+  },
+  {
+    "mid":12811,
+    "mn":"Evsahibi İlk Yarı Toplam Sayı Alt/Üst"
+  },
+  {
+    "mid":12812,
+    "mn":"Evsahibi İkinci Yarı Toplam Sayı Alt/Üst"
+  },
+  {
+    "mid":18190,
+    "mn":"Deplasman İkinci Yarı Toplam Sayı Alt/Üst"
+  },
+  {
+    "mid":12813    ,
+    "mn":"Evsahibi İlk Çeyrek Toplam Sayı Alt/Üst"
+  },
+  {
+    "mid":18191,
+    "mn":"Deplasman Toplam Sayı Alt/Üst"
+  },
+  {
+    "mid":18189,
+    "mn":"Deplasman İlk Çeyrek Toplam Sayı Alt/Üst"
+  },
+  {
+    "mid":19952,
+    "mn":"Maç Sonu Toplam Sayı Aralğı"
+  },
+  {
+    "mid":19901,
+    "mn":"Maç Sonu Toplam Sayı Aralğı"
+  },
+  {
+    "mid":12140,
+    "mn":"İlk Çeyrek Toplam Sayı Tek/Çift"
+  },
+  {
+    "mid":31511,
+    "mn":"İkinci Yarı Bahsi 3 lü"
+  },
+  {
+    "mid":7764,
+    "mn":"İkinci Yarı Bahsi 2 li"
+  },
+  {
+    "mid":24557    ,
+    "mn":"İkinci Yarı Bahsi 2 li"
+  },
+  {
+    "mid":20127,
+    "mn":"2. Çeyrek Bahsi 2 li"
+  },
+  {
+    "mid":31513,
+    "mn":"2. Çeyrek Bahsi 3 lü"
+  },
+  {
+    "mid":12141,
+    "mn":"2. Çeyrek Toplam Sayı Tek/Çift"
+  },
+  {
+    "mid":17588    ,
+    "mn":"2. Çeyrek Toplam Sayı Alt/Üst"
+  },
+  {
+    "mid":20128    ,
+    "mn":"3.Çeyrek Bahsi 2 li"
+  },
+  {
+    "mid":24555    ,
+    "mn":"3.Çeyrek Bahsi 2 li"
+  },
+  {
+    "mid":31514    ,
+    "mn":"3.Çeyrek Bahsi 3 lü"
+  },
+  {
+    "mid":7970,
+    "mn":"Toplam Sayı Tek/Çift"
+  },
+  {
+    "mid":12174,
+    "mn":"İkinci Yarı Toplam Sayı Tek/Çift"
+  },
+  {
+    "mid":12142,
+    "mn":"3.Çeyrek Toplam Sayı Tek/Çift"
+  },
+  {
+    "mid":102,
+    "mn":"Toplam Sayı Alt/Üst"
+  },
+  {
+    "mid":20546,
+    "mn":"Toplam Sayı Aralıgı"
+  },
+  {
+    "mid":11577,
+    "mn":"Toplam Sayı Alt/Üst"
+  },
+  {
+    "mid":7353,
+    "mn":"İkinci Yarı Toplam Sayı Alt/Üst"
+  },
+  {
+    "mid":17589,
+    "mn":"3.Çeyrek Toplam Say Alt/Üst"
+  },
+  {
+    "mid":31515,
+    "mn":"4.Çeyrek Maç Bahsi 3 lü"
+  },
+  {
+    "mid":20129,
+    "mn":"4.Çeyrek Maç Bahsi 2 li"
+  },
+  {
+    "mid":17590,
+    "mn":"4.Çeyrek Toplam Sayı Alt/Üst"
+  },
+  {
+    "mid":12143,
+    "mn":"4.Çeyrek Toplam Sayı Tek/Çift"
+  },
+  {
+    "mid":4860,
+    "mn":"Kazanma Marjı"
+  },
+  {
+    "mid":31520,
+    "mn":"3.Çeyrek Handikap"
+  },
+  {
+    "mid":31521,
+    "mn":"3.Çeyrek Sayı Yarışı 5"
+  },
+  {
+    "mid":31641,
+    "mn":"İlk Yarı Sayı Yarışı 35"
+  },
+  {
+    "mid":31639,
+    "mn":"İlk Yarı Sayı Yarışı 25"
+  },
+  {
+    "mid":31642,
+    "mn":"İlk Yarı Sayı Yarışı 40"
+  },
+  {
+    "mid":31643,
+    "mn":"İlk Yarı Sayı Yarışı 45"
+  },
+  {
+    "mid":5613,
+    "mn":"Sayı Yarışı 10"
+  },
+  {
+    "mid":2833,
+    "mn":"Sayı Yarışı 20"
+  },
+  {
+    "mid":7698,
+    "mn":"İlk Yarı Handikap"
+  },
+  {
+    "mid":7332,
+    "mn":"İlk Çeyrek Handikap"
+  },
+  {
+    "mid":31517,
+    "mn":"1.Çeyrek Sayı Yarışı 5"
+  },
+  {
+    "mid":7372,
+    "mn":"1.Çeyrek Sayı Yarışı 10"
+  },
+  {
+    "mid":31516,
+    "mn":"1.Çeyrek Sayı Yarışı 15"
+  },
+  {
+    "mid":31609,
+    "mn":"1.Çeyrek Sayı Yarışı 20"
+  },
+  {
+    "mid":31621,
+    "mn":"1.Çeyrek Sayı Yarışı 25"
+  },
+  {
+    "mid":31640,
+    "mn":"1.Çeyrek Sayı Yarışı 30"
+  },
+  {
+    "mid":7374,
+    "mn":"3.Çeyrek Sayı Yarışı 10"
+  },
+  {
+    "mid":31623,
+    "mn":"2.Çeyrek Sayı Yarışı"
+  },
+  {
+    "mid":31519,
+    "mn":"2.Çeyrek Sayı Yarışı 5"
+  },
+  {
+    "mid":7373,
+    "mn":"2.Çeyrek Sayı Yarışı 10"
+  },
+  {
+    "mid":31518,
+    "mn":"2.Çeyrek Sayı Yarışı 15"
+  },
+  {
+    "mid":31610,
+    "mn":"2.Çeyrek Sayı Yarışı 20"
+  },
+  {
+    "mid":31624,
+    "mn":"2.Çeyrek Sayı Yarışı 25"
+  },
+  {
+    "mid":7357,
+    "mn":"2.Çeyrek Handikap"
+  },
+  {
+    "mid":11306,
+    "mn":"3.Çeyrek Sayı Yarışı 15"
+  },
+  {
+    "mid":31611,
+    "mn":"3.Çeyrek Sayı Yarışı 20"
+  },
+  {
+    "mid":31625,
+    "mn":"3.Çeyrek Sayı Yarışı 25"
+  },
+  {
+    "mid":7375,
+    "mn":"4.Çeyrek Sayı Yarışı 10"
+  },
+  {
+    "mid":31523,
+    "mn":"4.Çeyrek Sayı Yarışı 5"
+  },
+  {
+    "mid":31522,
+    "mn":"4.Çeyrek Sayı Yarışı 15"
+  },
+  {
+    "mid":31612,
+    "mn":"4.Çeyrek Sayı Yarışı 20"
+  },
+  {
+    "mid":31627,
+    "mn":"4.Çeyrek Sayı Yarışı 25"
+  },
+  {
+    "mid":31628,
+    "mn":"4.Çeyrek Sayı Yarışı 30"
+  },
+  {
+    "mid":14017,
+    "mn":"İkinci Yarı Sayı Yarışı 10"
+  },
+  {
+    "mid":31630,
+    "mn":"İkinci Yarı Sayı Yarışı 15"
+  },
+  {
+    "mid":7266,
+    "mn":"İkinci Yarı Sayı Yarışı 20"
+  },
+  {
+    "mid":31631,
+    "mn":"İkinci Yarı Sayı Yarışı 25"
+  },
+  {
+    "mid":31632,
+    "mn":"İkinci Yarı Sayı Yarışı 30"
+  },
+  {
+    "mid":31633,
+    "mn":"İkinci Yarı Sayı Yarışı 35"
+  },
+  {
+    "mid":31635,
+    "mn":"İkinci Yarı Sayı Yarışı 45"
+  },
+  {
+    "mid":31636    ,
+    "mn":"İkinci Yarı Sayı Yarışı 50"
+  },
+  {
+    "mid":31637,
+    "mn":"İkinci Yarı Sayı Yarışı 55"
+  },
+  {
+    "mid":11305,
+    "mn":"İkinci Yarı Handikap"
+  },
+  {
+    "mid":2837,
+    "mn":"4. Çeyrek Handikap"
+  },
+  {
+    "mid":8098    ,
+    "mn":"Maç Handikap"
+  },
+  {
+    "mid":7760    ,
+    "mn":"4.Çeyrek Handikap"
+  },
+  {
+    "mid":2834    ,
+    "mn":"1.Çeyrek Handikap"
+  },
+  {
+    "mid":2841    ,
+    "mn":"4.Çeyrek Toplam Alt/Üst"
+  },
+  {
+    "mid":2840    ,
+    "mn":"3.Çeyrek Toplam Alt/Üst"
+  },
+  {
+    "mid":8643    ,
+    "mn":"1.Çeyrek Toplam Alt/Üst"
+  },
+  {
+    "mid":24556    ,
+    "mn":"4.Çeyrek Bahsi"
+  },
+  {
+    "mid":19503    ,
+    "mn":"1.Çeyrek Bahsi"
+  },
+  {
+    "mid":7068    ,
+    "mn":"İlk Yarı Handikap"
+  },
+  {
+    "mid":7701    ,
+    "mn":"İkinci Yarı Handikap"
+  },
+  {
+    "mid":17592    ,
+    "mn":"Devre Sayı"
+  },
+  {
+    "mid":31466    ,
+    "mn":"Her Devreyi Hangi Takım Kazanır?"
+  },
+  {
+    "mid":31467    ,
+    "mn":"Her Dört Çeyrek Hangi Takım Kazanır?"
+  },
+  {
+    "mid":2847    ,
+    "mn":"Her İki Devre Kazananı?"
+  },
+  {
+    "mid":3922    ,
+    "mn":"En Çok Hangi Oyuncu Basket Atar?"
+  },
+  {
+    "mid":31374    ,
+    "mn":"En Çok Hangi Oyuncu Basket Atar?"
+  },
+  {
+    "mid":19933    ,
+    "mn":"İlk Basketi Hangi Oyuncu Yapar?"
+  },
+  {
+    "mid":31644,
+    "mn":"İlk Sayı Yarışı 55"
+  },
+  {
+    "mid":31622,
+    "mn":"İlk Çeyrek Yarışı 30"
+  },
+  {
+    "mid":31636,
+    "mn":"İkinci Yarı Sayı Yarışı 50"
+  }
+]

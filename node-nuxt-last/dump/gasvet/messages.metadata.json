@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"gasvet.messages"}],"uuid":"67bf737d29874870b44135a1e388e61f","collectionName":"messages","type":"collection"}
